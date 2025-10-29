@@ -1,0 +1,91 @@
+{
+  "type": "FeatureCollection",
+  "name": "regions_bmw_sales",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Afrique" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-20.0, -35.0],
+          [30.0, -35.0],
+          [30.0, 37.0],
+          [-20.0, 37.0],
+          [-20.0, -35.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Moyen-Orient" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [30.0, 12.0],
+          [60.0, 12.0],
+          [60.0, 42.0],
+          [30.0, 42.0],
+          [30.0, 12.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Europe" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-10.0, 36.0],
+          [30.0, 36.0],
+          [30.0, 72.0],
+          [-10.0, 72.0],
+          [-10.0, 36.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Asie" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [60.0, -10.0],
+          [180.0, -10.0],
+          [180.0, 80.0],
+          [60.0, 80.0],
+          [60.0, -10.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Amérique du Nord" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-170.0, 10.0],
+          [-50.0, 10.0],
+          [-50.0, 83.0],
+          [-170.0, 83.0],
+          [-170.0, 10.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Amérique du Sud" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-82.0, -56.0],
+          [-34.0, -56.0],
+          [-34.0, 13.0],
+          [-82.0, 13.0],
+          [-82.0, -56.0]
+        ]]
+      }
+    }
+  ]
+}
+

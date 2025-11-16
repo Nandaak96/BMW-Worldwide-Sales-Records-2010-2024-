@@ -63,19 +63,26 @@ A noter: Toutes les variables et les modalités ont été traduites en français
 |Git & GitHub	                |Versioning, documentation et diffusion en portfolio
 |Markdown	                    |Documentation structurée (README)
 
+## 📊 **Dashboard Power BI — Extraits visuels**
+
+
+🖥️ Vue d’ensemble du dashboard
+<p align="center"> <img src="https://github.com/Nandaak96/BMW-Worldwide-Sales-Records-2010-2024-/blob/main/Vue%20globale.png?raw=true" width="85%"> </p>
+
+🔝 Vue modèle
+<p align="center"> <img src="https://github.com/Nandaak96/BMW-Worldwide-Sales-Records-2010-2024-/blob/main/Vue%20par%20mod%C3%A8le.png?raw=true" width="85%"> </p>
+
+
 ## 📊 **Quelques insights clés**
 
-Top 5 des modèles les plus vendus mondialement
+- Les modèles Série 7, i8 et X1 sont les top 3 qui dominent les ventes sur la période 2010 à 2024
 
-Montée en puissance des motorisations hybrides et électriques
+- L'hybride domine légèrement le marché mondial avec cependant des tendances selon les région: hybride en Europe et en Asie, Diesel en Amérique du Sud, électrique en Amérique du Nord et essence en Afrique.
 
-Recul progressif du diesel dans certaines régions
+- L'Asie se démarque comme région la plus performance en terme de ventes
 
-Régions clés en volume : Europe, Amérique du Nord, Asie
+- Le rouge se démarque comme couleur la plus populaire sur la période
 
-Couleurs les plus populaires selon les segments
-
-Tendance à la généralisation de la transmission automatique
 
 ## 📌 **Perspectives d’amélioration pour une version 2 du projet axée Machine Learning**
 
